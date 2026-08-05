@@ -1,0 +1,16 @@
+[submodule "Talleres/Probabilidad_Bayes_FPRO"]
+	path = Talleres/Probabilidad_Bayes_FPRO
+	url = https://github.com/JuanGuayazanC/Probabilidad_Bayes_FPRO.git
+	branch = main
+[submodule "Talleres/DISTRIBUCIONES-FPRO"]
+	path = Talleres/DISTRIBUCIONES-FPRO
+	url = https://github.com/JuanGuayazanC/DISTRIBUCIONES-FPRO.git
+	branch = main
+[submodule "Talleres/Algebra-Lineal-FPRO"]
+	path = Talleres/Algebra-Lineal-FPRO
+	url = https://github.com/JuanGuayazanC/Algebra-Lineal-FPRO.git
+	branch = main
+[submodule "Proyectos/Distribuciones-Rademacher-y-Erlang-FPRO"]
+	path = Proyectos/Distribuciones-Rademacher-y-Erlang-FPRO
+	url = https://github.com/JuanGuayazanC/Distribuciones-Rademacher-y-Erlang-FPRO.git
+	branch = main
