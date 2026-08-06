@@ -1,11 +1,3 @@
-[submodule "Talleres/Probabilidad_Bayes_FPRO"]
-	path = Talleres/Probabilidad_Bayes_FPRO
-	url = https://github.com/JuanGuayazanC/Probabilidad_Bayes_FPRO.git
-	branch = main
-[submodule "Talleres/DISTRIBUCIONES-FPRO"]
-	path = Talleres/DISTRIBUCIONES-FPRO
-	url = https://github.com/JuanGuayazanC/DISTRIBUCIONES-FPRO.git
-	branch = main
 [submodule "Talleres/Algebra-Lineal-FPRO"]
 	path = Talleres/Algebra-Lineal-FPRO
 	url = https://github.com/JuanGuayazanC/Algebra-Lineal-FPRO.git
@@ -13,4 +5,32 @@
 [submodule "Proyectos/Distribuciones-Rademacher-y-Erlang-FPRO"]
 	path = Proyectos/Distribuciones-Rademacher-y-Erlang-FPRO
 	url = https://github.com/JuanGuayazanC/Distribuciones-Rademacher-y-Erlang-FPRO.git
+	branch = main
+[submodule "Talleres/Taller-Probabilidad-Condicional-en-R-FPRO"]
+	path = Talleres/Taller-Probabilidad-Condicional-en-R-FPRO
+	url = https://github.com/JuanGuayazanC/Taller-Probabilidad-Condicional-en-R-FPRO.git
+	branch = main
+[submodule "Talleres/Taller-Distribucion-Normal-Salarios-FPRO"]
+	path = Talleres/Taller-Distribucion-Normal-Salarios-FPRO
+	url = https://github.com/JuanGuayazanC/Taller-Distribucion-Normal-Salarios-FPRO.git
+	branch = main
+[submodule "Talleres/Taller-Distribucion-Discreta-Valor-Esperado-FPRO"]
+	path = Talleres/Taller-Distribucion-Discreta-Valor-Esperado-FPRO
+	url = https://github.com/JuanGuayazanC/Taller-Distribucion-Discreta-Valor-Esperado-FPRO.git
+	branch = main
+[submodule "Parciales/Parcial-Clasificacion-de-Credito-FPRO"]
+	path = Parciales/Parcial-Clasificacion-de-Credito-FPRO
+	url = https://github.com/JuanGuayazanC/Parcial-Clasificacion-de-Credito-FPRO.git
+	branch = main
+[submodule "Parciales/Parcial-Distribucion-Binomial-FPRO"]
+	path = Parciales/Parcial-Distribucion-Binomial-FPRO
+	url = https://github.com/JuanGuayazanC/Parcial-Distribucion-Binomial-FPRO.git
+	branch = main
+[submodule "Recursos/Simulacion-y-Probabilidad-Condicional-FPRO"]
+	path = Recursos/Simulacion-y-Probabilidad-Condicional-FPRO
+	url = https://github.com/JuanGuayazanC/Simulacion-y-Probabilidad-Condicional-FPRO.git
+	branch = main
+[submodule "Recursos/Distribuciones-Normal-y-Discreta-FPRO"]
+	path = Recursos/Distribuciones-Normal-y-Discreta-FPRO
+	url = https://github.com/JuanGuayazanC/Distribuciones-Normal-y-Discreta-FPRO.git
 	branch = main
