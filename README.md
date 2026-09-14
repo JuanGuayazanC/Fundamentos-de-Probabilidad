@@ -2,6 +2,11 @@
 
 Agrupa los talleres, parciales, recursos y el proyecto del curso.
 
+## Autor
+
+[JUAN SEBASTIÁN GUAYAZÁN CLAVIJO](https://github.com/JuanGuayazanC)  
+Escuela Colombiana de Ingeniería Julio Garavito
+
 ## Estructura del proyecto
 
 ```
