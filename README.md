@@ -15,6 +15,7 @@ Fundamentos-de-Probabilidad/
 │   ├── Taller-Probabilidad-Condicional-en-R-FPRO/
 │   ├── Taller-Distribucion-Normal-Salarios-FPRO/
 │   ├── Taller-Distribucion-Discreta-Valor-Esperado-FPRO/
+│   ├── Taller-Esperanza-Matematica-Discreta-FPRO/
 │   └── Algebra-Lineal-FPRO/
 ├── Parciales/
 │   ├── Parcial-Clasificacion-de-Credito-FPRO/
