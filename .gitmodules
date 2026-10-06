@@ -34,7 +34,3 @@
 	path = Recursos/Distribuciones-Normal-y-Discreta-FPRO
 	url = https://github.com/JuanGuayazanC/Distribuciones-Normal-y-Discreta-FPRO.git
 	branch = main
-[submodule "Talleres/Taller-Esperanza-Matematica-Discreta-FPRO"]
-	path = Talleres/Taller-Esperanza-Matematica-Discreta-FPRO
-	url = https://github.com/JuanGuayazanC/Taller-Esperanza-Matematica-Discreta-FPRO.git
-	branch = main
